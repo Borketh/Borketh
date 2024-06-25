@@ -25,7 +25,7 @@ Specifically something in Ottawa for the Fall term 2024.
 
 ## Preferred languages
 - Python 🐍
-- 🦀🦀🦀 Rust 🦀🦀🦀
+- Rust [🦀](https://youtu.be/LDU_Txk06tM)
 
 I am also familiar and comfortable with (in order of preference and experience)
 - sh
