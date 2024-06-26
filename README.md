@@ -6,7 +6,7 @@ I'm a software engineering student looking for co-op work through Carleton Unive
 Specifically something in Ottawa for the Fall term 2024.
 
 
-<h2 align="center"> I contribute to a couple open source projects </h2>
+<h2 align="center"> I contribute to a couple of open source projects </h2>
 
 | [timetable-kit](https://github.com/neroden/timetable-kit) | [FICSIT-Fred](https://github.com/Feyko/FICSIT-Fred) |
 | --- | --- |
@@ -35,18 +35,3 @@ I am also familiar and comfortable with (in order of preference and experience)
 - Javascript/Typescript
 - Julia 
 - HTML/CSS
-
-<!--
-**Borketh/Borketh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
