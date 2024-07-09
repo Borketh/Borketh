@@ -1,4 +1,4 @@
-<div align="center"> <h1>Hi, I'm Borketh!</h1> <h3>I know how to centre a div 🙃</h3> </div>
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&duration=2000&pause=2000&color=F78500&center=true&vCenter=true&random=false&width=550&lines=Hi+there!+I'm+Borketh.;I+know+how+to+centre+a+div+%3AP;Have+a+look+through+my+projects+below" alt="Typing SVG" /></a> </div>
 
 
 If you came here from a job application, you know my name already.
