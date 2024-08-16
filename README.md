@@ -8,7 +8,7 @@ Specifically something in Ottawa for the Fall term 2024.
 
 <h2 align="center"> I contribute to a couple of open source projects </h2>
 
-| [timetable-kit](https://github.com/neroden/timetable-kit) | [FICSIT-Fred](https://github.com/Feyko/FICSIT-Fred) |
+| [timetable-kit](https://github.com/neroden/timetable-kit) | [FICSIT-Fred](https://github.com/satisfactorymodding/FICSIT-Fred) |
 | --- | --- |
 | An application that makes easily readable timetables from public transit GTFS feeds. I am working on custom styling and additional features.  Runs on Python with Jinja2 templates.  | A Discord bot used to provide tech support to members of the Satisfactory Modding community server.  Runs on Python in a minimal Docker container. |
 | ![image](https://github.com/Borketh/Borketh/assets/80119007/64673510-a25a-4668-87cd-8f5c6fb0e75e) | ![Untitled82_20240624200602](https://github.com/Borketh/Borketh/assets/80119007/84c781a8-4733-4a6d-b087-3d20246de4e9)  |
