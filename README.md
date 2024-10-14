@@ -3,7 +3,7 @@
 
 If you came here from a job application, you know my name already.
 I'm a software engineering student looking for co-op work through Carleton University.
-Specifically something in Ottawa for the Fall term 2024.
+Specifically something in Ottawa for the Summer term 2025.
 
 
 <h2 align="center"> I contribute to a couple of open source projects </h2>
